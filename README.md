@@ -7,9 +7,9 @@
 <a href='https://arxiv.org/abs/2601.04035'><img src='https://img.shields.io/badge/Arxiv-2601.04035-b31b1b.svg?logo=arXiv'></a>&ensp;
 <a href=https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE><img src='https://img.shields.io/badge/License-Apache_2.0-green.svg'></a>
 
-Yilin Cao $^{*}$, Yufeng Zhong $^{*}$, Zhixiong Zeng $^{\dagger}$, Liming Zheng, Jing Huang, Haibo Qiu, Peng Shi, Wenji Mao $^{\dagger}$, Wan Guanglu
+Yilin Cao*, Yufeng Zhong*, Zhixiong Zeng $^{\dagger}$, Liming Zheng, Jing Huang, Haibo Qiu, Peng Shi, Wenji Mao $^{\dagger}$, Wan Guanglu
 
-$^{*}$ Equal Contribution $^{\dagger}$ Corresponding Authors
+*Equal Contribution, $^{\dagger}$ Corresponding Authors
 </div>
 
 # 📢 News and Updates
