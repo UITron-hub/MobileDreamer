@@ -14,9 +14,13 @@ Yilin Cao*, Yufeng Zhong*, Zhixiong Zeng $^{\dagger}$, Liming Zheng, Jing Huang,
 </div>
 
 # 📢 News and Updates
-* **[Jan 7, 2025]** 🎉 Evaluation code is now available!
-* **[Jan 7, 2025]** 🤗 Model weights released on [Hugging Face](https://huggingface.co/UITron-hub/MobileDreamer).
-* **[Jan 7, 2025]** 📄 Preprint released on [arXiv](https://arxiv.org/abs/2601.04035).
+* **[Jan 8, 2026]** 🎉 Evaluation code is now available!
+* **[Jan 8, 2026]** 🤗 Model weights released on [Hugging Face](https://huggingface.co/UITron-hub/MobileDreamer).
+* **[Jan 7, 2026]** 📄 Preprint released on [arXiv](https://arxiv.org/abs/2601.04035).
+
+# 💡 Motivation
+![motivation](./assets/motivation.jpg)
+MobileDreamer trains a world model to predict future GUI states and performs rollout imagination to select actions from candidates. It consistently improves multiple LLM backbones on Android World.
 
 # 🤖 Pipeline
 ![pipeline](./assets/pipeline.jpg)
